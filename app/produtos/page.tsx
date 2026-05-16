@@ -104,7 +104,7 @@ const Home = () => {
         }}
       />
       <Filtro onFiltroChange={handleFiltroChange} />
-      <Box display="flex" gap={2} marginBottom={2} marginTop={2}>
+      <Box sx={{ display: 'flex', gap: 2, marginBottom: 2, marginTop: 2 }}>
         <Button
           variant="contained"
           color="primary"
