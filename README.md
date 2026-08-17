@@ -6,11 +6,11 @@
 ## 🛠 Project Overview  
 IPAAM Monitoring is a web-based application designed to support the **Instituto de Proteção Ambiental do Amazonas (IPAAM)** in monitoring licensed logging activities in the Amazon rainforest. This tool uses open data from **Sinaflor** and **DOF**, combined with satellite imagery, to enhance oversight and promote sustainable practices.  
 
-👉 **Live App:** [IPAAM Monitoring](https://ipaam-monitoring.vercel.app/produtos)    
-👉 **Data:** [IPAAM Monitoring Data](https://ipaam-monitoring.vercel.app/api/dados)  
-👉 **GitHub Repository:** [IPAAM Monitoring Repo](https://github.com/macasrenata/ipaam-monitoring)   
-👉 **Project Resume:** [IPAAM Monitoring Resume](https://docs.google.com/document/d/1RDJtNLLkvkfYPlLr2M0pcBqFnRY79rcM0n5qRfcXuPo/edit?tab=t.0#heading=h.maqb4h99butr)   
-👉 **Analysis and geoprocessing:** [IPAAM Monitoring Geoprocessing](https://uiro.shinyapps.io/swisi/)   
+ **Live App:** [IPAAM Monitoring](https://ipaam-monitoring.vercel.app/produtos)    
+ **Data:** [IPAAM Monitoring Data](https://ipaam-monitoring.vercel.app/api/dados)  
+ **GitHub Repository:** [IPAAM Monitoring Repo](https://github.com/macasrenata/ipaam-monitoring)   
+ **Project Resume:** [IPAAM Monitoring Resume](https://docs.google.com/document/d/1RDJtNLLkvkfYPlLr2M0pcBqFnRY79rcM0n5qRfcXuPo/edit?tab=t.0#heading=h.maqb4h99butr)   
+ **Analysis and geoprocessing:** [IPAAM Monitoring Geoprocessing](https://uiro.shinyapps.io/swisi/)   
 
 ---
 
