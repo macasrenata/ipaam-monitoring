@@ -1,43 +1,119 @@
-# IPAAM Monitoring App 🌳
+# Tree Monitoring App 🌳
 
-**Team Swisi**: Renata Maçãs, Milena Yamauchi Walter e Gabriel Pisa  
-**Hackathon:**  [AmazôniaHack 2024](https://amazoniahack.co/)     
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
 
-## 🛠 Project Overview  
-IPAAM Monitoring is a web-based application designed to support the **Instituto de Proteção Ambiental do Amazonas (IPAAM)** in monitoring licensed logging activities in the Amazon rainforest. This tool uses open data from **Sinaflor** and **DOF**, combined with satellite imagery, to enhance oversight and promote sustainable practices.  
+Open-source web platform for monitoring licensed logging activities in the Brazilian Amazon.
 
- **Live App:** [IPAAM Monitoring](https://ipaam-monitoring.vercel.app/produtos)    
- **Data:** [IPAAM Monitoring Data](https://ipaam-monitoring.vercel.app/api/dados)  
- **GitHub Repository:** [IPAAM Monitoring Repo](https://github.com/macasrenata/ipaam-monitoring)   
- **Project Resume:** [IPAAM Monitoring Resume](https://docs.google.com/document/d/1RDJtNLLkvkfYPlLr2M0pcBqFnRY79rcM0n5qRfcXuPo/edit?tab=t.0#heading=h.maqb4h99butr)   
- **Analysis and geoprocessing:** [IPAAM Monitoring Geoprocessing](https://uiro.shinyapps.io/swisi/)   
+## 🌎 About
 
----
+Tree Monitoring App is a web application designed to support environmental monitoring of licensed logging activities in the state of Amazonas, Brazil.
 
-## ✨ Features  
-1. **Interactive Filtering:** Easily filter data by year, company name, and species to identify trends or discrepancies.  
-2. **Data Visualization:** Tabular representation of licensed logging activity with export options for further analysis.  
-3. **CSV Export:** Download filtered data in CSV format for offline analysis.  
+The platform combines open forestry data from **Sinaflor** and **DOF** with satellite and geospatial information to help identify patterns, inconsistencies, and potential irregularities in licensed logging activities.
 
----
+The project was originally developed by **Team Swisi** during **AmazôniaHack 2024**.
 
-## 🚀 How to Run Locally  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/macasrenata/ipaam-monitoring.git
-   cd ipaam-monitoring
-   ```
+### Team
 
-2. Install dependencies:
+* Renata Maçãs
+* Milena Yamauchi Walter
+* Gabriel Pisa
 
-    ```bash
-   npm install
-   ```
-    
-4. Start the development server:
+## 🔗 Links
 
-    ```bash
-   npm run dev
-   ```
+* **Live Application:** https://ipaam-monitoring.vercel.app/
+* **Repository:** https://github.com/macasrenata/ipaam-monitoring
+* **Geospatial Analysis:** https://uiro.shinyapps.io/
 
-6. Open your browser at http://localhost:3000
+## ✨ Features
+
+* Interactive filtering by year, company, and species
+* Visualization of licensed logging activities
+* Environmental data analysis
+* CSV export for offline analysis
+* Integration with open forestry datasets
+* Support for geospatial and satellite-based analysis
+
+## 🛠 Tech Stack
+
+* Next.js
+* React
+* TypeScript
+* Node.js
+* Vercel
+* Open environmental datasets
+* Geospatial and satellite data
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have installed:
+
+* Node.js
+* npm
+* Git
+
+### Clone the repository
+
+```bash
+git clone https://github.com/macasrenata/ipaam-monitoring.git
+cd ipaam-monitoring
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the application
+
+```bash
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:3000
+```
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+You can contribute by:
+
+* Reporting bugs
+* Suggesting new features
+* Improving documentation
+* Improving accessibility and UX
+* Adding or improving environmental datasets
+* Improving geospatial analysis
+* Improving satellite data processing
+* Fixing existing issues
+* Submitting pull requests
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a contribution.
+
+## 🔐 Security
+
+If you discover a security vulnerability, please do not open a public GitHub issue.
+
+See [SECURITY.md](SECURITY.md) for information about reporting security issues.
+
+## 📄 License
+
+This project is licensed under the **Apache License 2.0**.
+
+You may use, modify, distribute, and build upon this software according to the terms of the Apache License 2.0.
+
+See the [LICENSE](LICENSE) file for details.
+
+## 🌱 Project Background
+
+Tree Monitoring App was originally developed during **AmazôniaHack 2024** to explore how technology, open environmental data, and geospatial analysis can support environmental monitoring in the Brazilian Amazon.
+
+The project is now maintained as an open-source initiative and is open to contributions from developers, researchers, data scientists, GIS professionals, and environmental specialists.
