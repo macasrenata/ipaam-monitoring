@@ -22,8 +22,8 @@ The project was originally developed by **Team Swisi** during **AmazôniaHack 20
 
 ## 🔗 Links
 
-* **Live Application:** https://ipaam-monitoring.vercel.app/
-* **Repository:** https://github.com/macasrenata/ipaam-monitoring
+* **Live Application:** https://tree-monitoring.vercel.app/
+* **Repository:** https://github.com/macasrenata/tree-monitoring
 * **Geospatial Analysis:** https://uiro.shinyapps.io/
 
 ## ✨ Features
