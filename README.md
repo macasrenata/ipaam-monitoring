@@ -16,7 +16,7 @@ The project was originally developed by **Team Swisi** during **AmazôniaHack 20
 
 ### Team
 
-* Renata Maçãs 
+* Renata Maçãs
 * Milena Yamauchi Walter
 * Gabriel Pisa
 
