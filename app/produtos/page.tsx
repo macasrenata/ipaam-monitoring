@@ -85,8 +85,10 @@ const Home = () => {
       }}
     >
       <Typography variant="h4" gutterBottom>
-        Análise de Dados IPAAM
+        Tree Monitoring App
       </Typography>
+      <br></br>
+      <h5> Tree Monitoring App is a web application designed to support environmental monitoring of licensed logging activities in the state of Amazonas, Brazil.</h5>      
       <br>
       </br>
       <br>
